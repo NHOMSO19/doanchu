@@ -63,7 +63,7 @@ void choi_game() {
         }
         else {
             so_lan_sai++;
-            cout << "Ban da doan sai! Con "
+            cout << "Ban da doan sai! Phai chiu, dung co keu! Con "
                 << (SO_LAN_DOAN_SAI_TOI_DA - so_lan_sai) << " lan nua.\n";
         }
 
@@ -77,3 +77,4 @@ void choi_game() {
         cout << " Ban da thua. Tu dung la: " << tu_bi_mat << "\n";
     }
 }
+
